@@ -1,0 +1,15 @@
+{
+  "name": "conversor",
+  "version": "1.0.0",
+  "description": "Conversor de planilha excel",
+  "main": "HTMLparser.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Willian Mendonça",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "html-pdf": "^3.0.1"
+  }
+}
